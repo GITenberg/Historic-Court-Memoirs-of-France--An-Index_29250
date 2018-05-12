@@ -1,0 +1,31 @@
+_repo: Historic-Court-Memoirs-of-France--An-Index_29250
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29250-h/files/3883/3883-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29250'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indexes'
+- !lcsh 'France -- Court and courtiers'
+- !lcc 'DC'
+title: 'Historic Court Memoirs of France: An Index'
+url: http://www.gutenberg.org/ebooks/29250
